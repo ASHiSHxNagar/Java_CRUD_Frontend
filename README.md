@@ -1,6 +1,8 @@
 # FullStackApp
 
 FullStackApp is a web application built with Spring Boot for the backend and React for the frontend. It provides a seamless full-stack development experience for building modern web applications.
+frontend :https://github.com/ASHiSHxNagar/Java_CRUD_Frontend
+backend : https://github.com/ASHiSHxNagar/Java_CRUD_Backend
 
 ## Table of Contents
 
